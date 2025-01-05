@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/jan-warchol/testing-vue-reactivity/issues"
   },
-  "homepage": "https://github.com/jan-warchol/testing-vue-reactivity#readme"
+  "homepage": "https://github.com/jan-warchol/testing-vue-reactivity#readme",
+  "dependencies": {
+    "vue": "^3.5.13"
+  },
+  "devDependencies": {
+    "vitest": "^2.1.8"
+  }
 }
