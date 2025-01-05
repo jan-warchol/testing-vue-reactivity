@@ -1,0 +1,23 @@
+{
+  "name": "testing-vue-reactivity",
+  "version": "0.1.0",
+  "description": "Collection of test cases that demonstrate how Vue 3 reactivity works and how to test it.",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jan-warchol/testing-vue-reactivity.git"
+  },
+  "keywords": [
+    "vue3",
+    "reactivity",
+    "vitest"
+  ],
+  "author": "Jan Warchoł",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jan-warchol/testing-vue-reactivity/issues"
+  },
+  "homepage": "https://github.com/jan-warchol/testing-vue-reactivity#readme"
+}
